@@ -1,3 +1,10 @@
+/**
+ * @author Sofia Garcia, Julio García Salas
+ * Folder: HDT10
+ * Archivo: Reader.java
+ * Fecha: 22/05/2023
+ */
+
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.util.Arrays;

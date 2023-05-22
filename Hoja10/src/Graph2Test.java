@@ -1,3 +1,10 @@
+/**
+ * @author Sofia Garcia, Julio García Salas
+ * Folder: HDT10
+ * Archivo: Graph2Test.java
+ * Fecha: 22/05/2023
+ */
+
 import java.security.spec.ECField;
 import java.util.Arrays;
 import java.util.HashMap;

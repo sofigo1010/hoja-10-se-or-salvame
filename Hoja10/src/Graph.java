@@ -1,3 +1,9 @@
+/**
+ * @author Sofia Garcia, Julio García Salas
+ * Folder: HDT10
+ * Archivo: Graph.java
+ * Fecha: 22/05/2023
+ */
 
 import java.util.*;
 
